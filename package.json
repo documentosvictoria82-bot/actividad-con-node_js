@@ -4,7 +4,7 @@
   "description": "Esto hace parte de la actividad para fortalecer lo visto en clase acerca de nodejs",
   "license": "ISC",
   "author": "Victoria Caicedo",
-  "type": "module", 
+  "type": "module",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
