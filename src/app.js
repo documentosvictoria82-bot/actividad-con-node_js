@@ -1,4 +1,4 @@
-import {suma, resta, multiplicar, dividir, elevado} from ('./calcular.js');
+import {suma, resta, multiplicar, dividir, elevado} from './calcular.js';
 
 console.log(suma(10,5))
 console.log(resta(10,5))

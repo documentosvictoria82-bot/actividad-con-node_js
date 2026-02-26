@@ -14,7 +14,7 @@ export function dividir (x,y){
     if(y!=0){
         return x/y;
     }else{
-        return console.error('no se puede realizar'+error);
+        return 'no se puede realizar';  
     }
 }
 
